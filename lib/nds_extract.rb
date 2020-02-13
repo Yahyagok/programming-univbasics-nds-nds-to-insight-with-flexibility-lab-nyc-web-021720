@@ -109,12 +109,6 @@ index +=1
 end 
 
 new_array 
-
-
-
-  
-  
-  
   # GOAL: For each director, find their :movies Array and stick it in a new Array
   
   # INPUT:
